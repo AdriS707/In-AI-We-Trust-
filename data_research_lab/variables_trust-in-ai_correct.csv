@@ -1,0 +1,55 @@
+VAR,LABEL,TYPE,INPUT,QUESTION
+CASE,Interview number (ongoing),METRIC,SYSTEM,
+SERIAL,Serial number (if provided),TEXT,SYSTEM,
+REF,Reference (if provided in link),TEXT,SYSTEM,
+QUESTNNR,Questionnaire that has been used in the interview,TEXT,SYSTEM,
+MODE,Interview mode,TEXT,SYSTEM,
+STARTED,Time the interview has started (Europe/Berlin),TIME,SYSTEM,
+B010_01,Tax Scenario: How likely are you to trust AI in conducting the review correctly? (1 = very unlikely; 5 = very likely),ORDINAL,SCALE,1st Scenario:
+B010_02,Tax Scenario: How does the breakdown of process steps affect your trust in the AI-driven decision? (1 = decreases trust significantly; 5 = increases trust significantly),ORDINAL,SCALE,1st Scenario:
+B010_03,Tax Scenario: How does the option to contact a tax officer affect your trust in the AI-driven decision? (1 = decreases trust significantly; 5 = increases trust significantly),ORDINAL,SCALE,1st Scenario:
+B010_04,Tax Scenario: How likely are you to comply with the request? (1 = very unlikely; 5 = very likely),ORDINAL,SCALE,1st Scenario:
+B011_01,Benefits Scenario: How likely are you to trust AI in conducting the review correctly? (1 = very unlikely; 5 = very likely),ORDINAL,SCALE,2nd (final) Scenario: 
+B011_02,Benefits Scenario: How do the details about which data was used in the decision process affect your trust in the AI-driven decision? (1 = decreases trust significantly; 5 = increases trust significantly),ORDINAL,SCALE,2nd (final) Scenario: 
+B011_03,Benefits Scenario: How does the specific information about where you do not meet the criteria affect your trust in hte AI-driven decision? (1 = decreases trust significantly; 5 = increases trust significantly),ORDINAL,SCALE,2nd (final) Scenario: 
+B011_04,Benefits Scenario: How does the option to appeal the decision affect your trust in the AI-driven decision? (1 = decreases trust significantly; 5 = increases trust significantly),ORDINAL,SCALE,2nd (final) Scenario: 
+C001, Familiarity with AI applications in public services,NOMINAL,SELECTION,"On a scale of 1 to 5, how aware are you of AI applications used in public services (e.g., AI used for decision-making in tax assessments, job matching, or social benefit distribution)?"
+C010,Experience with AI: Residual option (negative) or number of selected options,METRIC,SYSTEM,How have you interacted with AI before? 
+C010_01,Experience with AI: No interaction with AI so far,DICHOTOMOUS,CHECKBOX,How have you interacted with AI before? 
+C010_02,"Experience with AI: I have interacted with AI services (e.g., chatbots, virtual assistants, or online services)",DICHOTOMOUS,CHECKBOX,How have you interacted with AI before? 
+C010_03,Experience with AI: I regularly use AI in private or professional setting,DICHOTOMOUS,CHECKBOX,How have you interacted with AI before? 
+C010_04,Experience with AI: I have previously received an AI-based decision from public services,DICHOTOMOUS,CHECKBOX,How have you interacted with AI before? 
+C007_01,Benefits - AI public services: Faster processing,ORDINAL,SCALE,Please indicate the extent to which you view the following factors as beneficial for the use of AI in public services.
+C007_02,Benefits - AI public services: Greater accuracy,ORDINAL,SCALE,Please indicate the extent to which you view the following factors as beneficial for the use of AI in public services.
+C007_03,Benefits - AI public services: Reducing costs,ORDINAL,SCALE,Please indicate the extent to which you view the following factors as beneficial for the use of AI in public services.
+C007_04,Benefits - AI public services: Fairer decisions,ORDINAL,SCALE,Please indicate the extent to which you view the following factors as beneficial for the use of AI in public services.
+C007_05,Benefits - AI public services: Increased efficiency,ORDINAL,SCALE,Please indicate the extent to which you view the following factors as beneficial for the use of AI in public services.
+C008_01,Concerns - AI public services: Transparency,ORDINAL,SCALE,Please indicate the extent to which the following factors influence your concerns towards AI.
+C008_02,Concerns - AI public services: Data privacy,ORDINAL,SCALE,Please indicate the extent to which the following factors influence your concerns towards AI.
+C008_03,Concerns - AI public services: Errors in decision-making,ORDINAL,SCALE,Please indicate the extent to which the following factors influence your concerns towards AI.
+C008_04,Concerns - AI public services: Bias,ORDINAL,SCALE,Please indicate the extent to which the following factors influence your concerns towards AI.
+C008_05,Concerns - AI public services: Lack of human oversight,ORDINAL,SCALE,Please indicate the extent to which the following factors influence your concerns towards AI.
+C009,overall assessment of AI in public services,NOMINAL,SELECTION,"Based on the last two questions, how do you assess the use of AI in public services overall?"
+D001,AI public services comfort level,NOMINAL,SELECTION,To what extent do you trust AI processing your data and making decisions in the public sector?
+D002_01,Trust AI public services scale: Tax administration,ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D002_02,Trust AI public services scale: Social benefit distribution (Familienbeihilfe),ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D002_03,Trust AI public services scale: AMS services (job searching),ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D002_04,Trust AI public services scale: Public Security (Police),ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D002_05,Trust AI public services scale: Health Care,ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D002_06,Trust AI public services scale: School System,ORDINAL,SCALE,How much do you trust the following public services to make decisions using AI?
+D004_01,Influence Trust Factors: Human oversight on each AI decision,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_02,Influence Trust Factors: Data Transparency - information about the personal data used for the decision,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_03,Influence Trust Factors: Process Transparency - information about the steps and involved people in the decision-making process,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_04,Influence Trust Factors: Outcome transparency - decision factors are explained for justification,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_05,Influence Trust Factors: Regular audits of the AI system,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_06,Influence Trust Factors: The ability to appeal AI decisions,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+D004_07,Influence Trust Factors: Public reporting on AI decision-making outcomes,ORDINAL,SCALE,How do the following factors influence the trustworthiness of AI driven decision making in the public sector?
+E001,"Reflecting on type of transparency, information transparency",NOMINAL,SELECTION,How much information would you like to receive when an AI system makes a decision that affects you?
+E002,"Reflecting on type of transparency, process transparency",NOMINAL,SELECTION,How important is it for you to understand how AI systems make decisions in public services?
+F001,Age,NOMINAL,SELECTION,What is your age?
+F002,Gender,NOMINAL,SELECTION,What is your gender?
+F003,Education Level,NOMINAL,SELECTION,What is the highest level of education you have completed?
+F004,Employment Status,NOMINAL,SELECTION,What is your employment status?
+F005,Austria,NOMINAL,SELECTION,Are you currently living in Austria?
+G001_01,Interview Participants: [01],TEXT,OPEN,"Thank you for participating in our survey! We are looking for participants who are also open for conducting a 10 minute interview. If you agree to be contacted by us for that purpose, please provide your e-mail below. 
+We highly appreciate it!"

@@ -1,0 +1,320 @@
+VAR,RESPONSE,MEANING
+B002_01,1,1 (not at all)
+B002_01,2,[-2-]
+B002_01,3,[-3-]
+B002_01,4,[-4-]
+B002_01,5,5 (very likely/ helpful/ important)
+B002_01,-9,Not answered
+B002_02,1,1 (not at all)
+B002_02,2,[-2-]
+B002_02,3,[-3-]
+B002_02,4,[-4-]
+B002_02,5,5 (very likely/ helpful/ important)
+B002_02,-9,Not answered
+B002_03,1,1 (not at all)
+B002_03,2,[-2-]
+B002_03,3,[-3-]
+B002_03,4,[-4-]
+B002_03,5,5 (very likely/ helpful/ important)
+B002_03,-9,Not answered
+B004_01,1,[-1-]
+B004_01,2,[-2-]
+B004_01,3,[-3-]
+B004_01,4,[-4-]
+B004_01,5,[-5-]
+B004_01,-9,Not answered
+B004_02,1,[-1-]
+B004_02,2,[-2-]
+B004_02,3,[-3-]
+B004_02,4,[-4-]
+B004_02,5,[-5-]
+B004_02,-9,Not answered
+B004_03,1,[-1-]
+B004_03,2,[-2-]
+B004_03,3,[-3-]
+B004_03,4,[-4-]
+B004_03,5,[-5-]
+B004_03,-9,Not answered
+B006_01,1,1 (not at all)
+B006_01,2,[-2-]
+B006_01,3,[-3-]
+B006_01,4,[-4-]
+B006_01,5,5 (very likely/ helpful/ concerned)
+B006_01,-9,Not answered
+B006_02,1,1 (not at all)
+B006_02,2,[-2-]
+B006_02,3,[-3-]
+B006_02,4,[-4-]
+B006_02,5,5 (very likely/ helpful/ concerned)
+B006_02,-9,Not answered
+B006_03,1,1 (not at all)
+B006_03,2,[-2-]
+B006_03,3,[-3-]
+B006_03,4,[-4-]
+B006_03,5,5 (very likely/ helpful/ concerned)
+B006_03,-9,Not answered
+B007_01,1,[-1-]
+B007_01,2,[-2-]
+B007_01,3,[-3-]
+B007_01,4,[-4-]
+B007_01,5,[-5-]
+B007_01,-9,Not answered
+B007_02,1,[-1-]
+B007_02,2,[-2-]
+B007_02,3,[-3-]
+B007_02,4,[-4-]
+B007_02,5,[-5-]
+B007_02,-9,Not answered
+B007_03,1,[-1-]
+B007_03,2,[-2-]
+B007_03,3,[-3-]
+B007_03,4,[-4-]
+B007_03,5,[-5-]
+B007_03,-9,Not answered
+B010_01,1,[-1-]
+B010_01,2,[-2-]
+B010_01,3,[-3-]
+B010_01,4,[-4-]
+B010_01,5,[-5-]
+B010_01,-9,Not answered
+B010_02,1,[-1-]
+B010_02,2,[-2-]
+B010_02,3,[-3-]
+B010_02,4,[-4-]
+B010_02,5,[-5-]
+B010_02,-9,Not answered
+B010_03,1,[-1-]
+B010_03,2,[-2-]
+B010_03,3,[-3-]
+B010_03,4,[-4-]
+B010_03,5,[-5-]
+B010_03,-9,Not answered
+B010_04,1,[-1-]
+B010_04,2,[-2-]
+B010_04,3,[-3-]
+B010_04,4,[-4-]
+B010_04,5,[-5-]
+B010_04,-9,Not answered
+B011_01,1,[-1-]
+B011_01,2,[-2-]
+B011_01,3,[-3-]
+B011_01,4,[-4-]
+B011_01,5,[-5-]
+B011_01,-9,Not answered
+B011_02,1,[-1-]
+B011_02,2,[-2-]
+B011_02,3,[-3-]
+B011_02,4,[-4-]
+B011_02,5,[-5-]
+B011_02,-9,Not answered
+B011_03,1,[-1-]
+B011_03,2,[-2-]
+B011_03,3,[-3-]
+B011_03,4,[-4-]
+B011_03,5,[-5-]
+B011_03,-9,Not answered
+B011_04,1,[-1-]
+B011_04,2,[-2-]
+B011_04,3,[-3-]
+B011_04,4,[-4-]
+B011_04,5,[-5-]
+B011_04,-9,Not answered
+C001,1,1 (not aware of any use case)
+C001,2,2
+C001,3,3
+C001,4,4
+C001,5,5 (I know how and where it is used)
+C001,-9,Not answered
+C010_01,1,Not checked
+C010_01,2,Checked
+C010_02,1,Not checked
+C010_02,2,Checked
+C010_03,1,Not checked
+C010_03,2,Checked
+C010_04,1,Not checked
+C010_04,2,Checked
+C002,1,Yes
+C002,2,No
+C002,3,Not sure
+C002,-9,Not answered
+C006,1,Yes
+C006,2,No
+C006,-9,Not answered
+C007_01,1,1 Not at all beneficial
+C007_01,2,[-2-]
+C007_01,3,[-3-]
+C007_01,4,[-4-]
+C007_01,5,5 highly beneficial
+C007_01,-9,Not answered
+C007_02,1,1 Not at all beneficial
+C007_02,2,[-2-]
+C007_02,3,[-3-]
+C007_02,4,[-4-]
+C007_02,5,5 highly beneficial
+C007_02,-9,Not answered
+C007_03,1,1 Not at all beneficial
+C007_03,2,[-2-]
+C007_03,3,[-3-]
+C007_03,4,[-4-]
+C007_03,5,5 highly beneficial
+C007_03,-9,Not answered
+C007_04,1,1 Not at all beneficial
+C007_04,2,[-2-]
+C007_04,3,[-3-]
+C007_04,4,[-4-]
+C007_04,5,5 highly beneficial
+C007_04,-9,Not answered
+C007_05,1,1 Not at all beneficial
+C007_05,2,[-2-]
+C007_05,3,[-3-]
+C007_05,4,[-4-]
+C007_05,5,5 highly beneficial
+C007_05,-9,Not answered
+C008_01,1,1 not concerning
+C008_01,2,[-2-]
+C008_01,3,[-3-]
+C008_01,4,[-4-]
+C008_01,5,5 highly concerning
+C008_01,-9,Not answered
+C008_02,1,1 not concerning
+C008_02,2,[-2-]
+C008_02,3,[-3-]
+C008_02,4,[-4-]
+C008_02,5,5 highly concerning
+C008_02,-9,Not answered
+C008_03,1,1 not concerning
+C008_03,2,[-2-]
+C008_03,3,[-3-]
+C008_03,4,[-4-]
+C008_03,5,5 highly concerning
+C008_03,-9,Not answered
+C008_04,1,1 not concerning
+C008_04,2,[-2-]
+C008_04,3,[-3-]
+C008_04,4,[-4-]
+C008_04,5,5 highly concerning
+C008_04,-9,Not answered
+C008_05,1,1 not concerning
+C008_05,2,[-2-]
+C008_05,3,[-3-]
+C008_05,4,[-4-]
+C008_05,5,5 highly concerning
+C008_05,-9,Not answered
+C009,1,1 (highly concerning)
+C009,2,2 (slightly concerning)
+C009,3,3 (neutral)
+C009,4,4 (slightly beneficial)
+C009,5,5 (highly beneficial)
+C009,-9,Not answered
+D001,1,1 (not trustworthy at all)
+D001,2,2
+D001,3,3
+D001,4,4
+D001,5,5 (very trustworthy)
+D001,-9,Not answered
+D002_01,1,Do not trust at all
+D002_01,5,Trust completely
+D002_01,-9,Not answered
+D002_02,1,Do not trust at all
+D002_02,5,Trust completely
+D002_02,-9,Not answered
+D002_03,1,Do not trust at all
+D002_03,5,Trust completely
+D002_03,-9,Not answered
+D002_04,1,Do not trust at all
+D002_04,5,Trust completely
+D002_04,-9,Not answered
+D002_05,1,Do not trust at all
+D002_05,5,Trust completely
+D002_05,-9,Not answered
+D002_06,1,Do not trust at all
+D002_06,5,Trust completely
+D002_06,-9,Not answered
+D004_01,1,1 (no influence on trustworthiness
+D004_01,2,[-2-]
+D004_01,3,[-3-]
+D004_01,4,[-4-]
+D004_01,5,5 (strongly increasing turstworthiness)
+D004_01,-9,Not answered
+D004_02,1,1 (no influence on trustworthiness
+D004_02,2,[-2-]
+D004_02,3,[-3-]
+D004_02,4,[-4-]
+D004_02,5,5 (strongly increasing turstworthiness)
+D004_02,-9,Not answered
+D004_03,1,1 (no influence on trustworthiness
+D004_03,2,[-2-]
+D004_03,3,[-3-]
+D004_03,4,[-4-]
+D004_03,5,5 (strongly increasing turstworthiness)
+D004_03,-9,Not answered
+D004_04,1,1 (no influence on trustworthiness
+D004_04,2,[-2-]
+D004_04,3,[-3-]
+D004_04,4,[-4-]
+D004_04,5,5 (strongly increasing turstworthiness)
+D004_04,-9,Not answered
+D004_05,1,1 (no influence on trustworthiness
+D004_05,2,[-2-]
+D004_05,3,[-3-]
+D004_05,4,[-4-]
+D004_05,5,5 (strongly increasing turstworthiness)
+D004_05,-9,Not answered
+D004_06,1,1 (no influence on trustworthiness
+D004_06,2,[-2-]
+D004_06,3,[-3-]
+D004_06,4,[-4-]
+D004_06,5,5 (strongly increasing turstworthiness)
+D004_06,-9,Not answered
+D004_07,1,1 (no influence on trustworthiness
+D004_07,2,[-2-]
+D004_07,3,[-3-]
+D004_07,4,[-4-]
+D004_07,5,5 (strongly increasing turstworthiness)
+D004_07,-9,Not answered
+E001,1,1 (Very little)
+E001,2,2
+E001,3,3
+E001,4,4
+E001,5,5 (As much information as possible)
+E001,-9,Not answered
+E002,1,1 (Not important at all)
+E002,2,2
+E002,3,3
+E002,4,4
+E002,5,5 (Very important)
+E002,-9,Not answered
+F001,1,18–24
+F001,2,25–34
+F001,3,35–44
+F001,4,45–54
+F001,5,55–64
+F001,6,65 or older
+F001,-9,Not answered
+F002,1,Male
+F002,2,Female
+F002,3,Non-binary
+F002,4,Prefer not to say
+F002,-9,Not answered
+F003,1,Less than high school
+F003,2,High school diploma or equivalent
+F003,3,"Some college, no degree"
+F003,4,Associate's degree
+F003,5,Bachelor's degree
+F003,6,Master's degree
+F003,7,Doctoral degree or equivalent
+F003,-9,Not answered
+F004,1,Employed full-time
+F004,2,Employed part-time
+F004,3,Unemployed
+F004,4,Student
+F004,5,Retired
+F004,6,Self-employed
+F004,-9,Not answered
+F005,1,Yes
+F005,2,No
+F005,-9,Not answered
+FINISHED,0,Canceled
+FINISHED,1,Finished
+Q_VIEWER,0,Respondent
+Q_VIEWER,1,Spectator
